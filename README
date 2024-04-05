@@ -1,0 +1,12 @@
+EPITECH JAM n°2
+
+Epitech jam est un évènement où les étudiants d'EPITECH son libre de faire des projets en liasons avec un sujet donné. Le sujet de la jam 2 est en liaison avec OPEN WORLDS.
+
+D'abord, l'idéé qu'on a eu est d'implémenter une les fonctionnalitées du langage python et de s'en servir de sorte qu'on est un terminal qui exécute les fonctions systemes uniquement avec la voix.
+
+Ensuite, pour l'exécuter, après avoir lancé le binaire, il suffit de dire une commande et il exécute la commande. Mais attention, il y a une certains nombre de commande que le programme peux exécuter. 
+Voici une liste des commandes que le programme peux exécuter:
+-ls
+-compilation make re
+-push pour pusher sur github
+-et share pour partager sur facebook
